@@ -6,4 +6,8 @@
 
 
 
+<<<<<<< HEAD
 not much of a problem
+=======
+trouble maker
+>>>>>>> very-bad
